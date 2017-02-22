@@ -2,7 +2,7 @@
 Hello_World with Node.js
 
 #1
-Writted with NotePad and saved as hello_world.js:
+Editted with NotePad and saved as hello_world.js:
 
 console.log("Hello world !");
 
